@@ -1,11 +1,11 @@
 # Stock-Market-Analysis
 Data Engineering Project to analyze Real-Time Stock Market Data using Kafka
 
-Get Steps to setup Kafka on EC2 on [Kafka setup](https://github.com/CKawara/Stock-Market-Analysis/blob/main/Setup-Kafka.txt)
+Get Steps to setup Kafka on EC2 on [Kafka setup](./Setup-Kafka.txt)
 
 ### Architecture
 
-![Architecture](https://github.com/CKawara/Stock-Market-Analysis/blob/main/Architecture.jpg)
+![Architecture](./media/Architecture.jpg)
 
 
 ### Technologies Used
