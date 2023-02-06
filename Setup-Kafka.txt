@@ -27,9 +27,9 @@ export KAFKA_HEAP_OPTS="-Xmx256M -Xms128M"
 cd kafka_2.12-3.3.2
 bin/kafka-server-start.sh config/server.properties
 
-It is pointing to private server , change server.properties so that it can run in public IP 
+Since It is pointing to private server , change server.properties so that it can run in public IP 
 
-To do this , you can follow any of the 2 approaches shared belwo --
+To do this , you can follow any of the steps shared below --
 Do a "sudo nano config/server.properties" - change ADVERTISED_LISTENERS to public ip of the EC2 instance
 
 

@@ -19,4 +19,5 @@ Get Steps to setup Kafka on EC2 on [Kafka setup](./Setup-Kafka.txt)
  - Apache Kafaka
  
  ### Dataset
+ Without access to the realtime api, the dataset used can be found [here](./StockData.csv)
  
